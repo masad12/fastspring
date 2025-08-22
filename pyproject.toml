@@ -1,6 +1,6 @@
 [project]
 name = "ctexaa"
-version = "0.0.1"
+version = "1.4.4"
 description = "The official Python library for the ctexaa API"
 dynamic = ["readme"]
 license = "Apache-2.0"
